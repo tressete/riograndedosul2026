@@ -5,49 +5,49 @@ mainset:
   - name: Porto Alegre
     probability: 1
   - name: Canoas
-    probability: 1
+    probability: 2
   - name: Gravataí
-    probability: 1
+    probability: 3
   - name: Novo Hamburgo
-    probability: 1
+    probability: 4
   - name: São Leopoldo
-    probability: 1
+    probability: 5
   - name: Caxias do Sul
-    probability: 1
+    probability: 6
   - name: Bento Gonçalves
-    probability: 1
+    probability: 7
   - name: Gramado
-    probability: 1
+    probability: 8
   - name: Farroupilha
-    probability: 1
+    probability: 9
   - name: Pelotas
-    probability: 1
+    probability: 10
   - name: Rio Grande
-    probability: 1
+    probability: 11
   - name: Bagé
-    probability: 1
+    probability: 12
   - name: Santa Maria
-    probability: 1
+    probability: 13
   - name: Cachoeira do Sul
-    probability: 1
+    probability: 14
   - name: Passo Fundo
-    probability: 1
+    probability: 15
   - name: Erechim
-    probability: 1
+    probability: 16
   - name: Ijuí
-    probability: 1
+    probability: 17
   - name: Uruguaiana
-    probability: 1
+    probability: 19
   - name: Santana do Livramento
-    probability: 1
+    probability: 18
   - name: Alegrete
-    probability: 1
+    probability: 20
   - name: Canudos do Vale
-    probability: 1
+    probability: 21
   - name: Forquetinha
-    probability: 1
+    probability: 23
   - name: Cachoeirinha
-    probability: 1
+    probability: 22
 name: cidade rio grande do sul
 source: null
 subsets: []
